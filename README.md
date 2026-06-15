@@ -1,1 +1,1 @@
-#cbg.bat k3.jpg
+cbg.bat k3.jpg
